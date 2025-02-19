@@ -4,4 +4,7 @@
    <FileRef
       location = "group:Playgrounds/ArrayProblems.playground">
    </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
 </Workspace>
